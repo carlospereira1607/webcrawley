@@ -20,6 +20,33 @@
         </plugins>
     </build>
 
+    <name>Web Crawley</name>
+    <url>https://github.com/carlospereira1607/webcrawley</url>
+    <description>A web crawling qualifier library. The purpose is to offer a simple way to detect which websites are qualified according to your configurations.</description>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Carlos Pereira</name>
+            <email>carloscdap@gmail.com</email>
+            <organization>com.github.carlospereira1607</organization>
+            <organizationUrl>https://carlospereira1607.github.io/</organizationUrl>
+            <url>https://carlospereira1607.github.io/</url>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/carlospereira1607/webcrawley.git</connection>
+        <developerConnection>scm:git:ssh://github.com:carlospereira1607/webcrawley.git</developerConnection>
+        <url>https://github.com/carlospereira1607/webcrawley</url>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
